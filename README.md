@@ -18,3 +18,4 @@ Continuous Delivery of FastAPI Data Engineering API on AWS Platform
     mkdir mylib,
     touch mylib/__init__.py,
     touch mylib/logic.py
+3. Populate Makefile
