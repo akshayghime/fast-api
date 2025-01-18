@@ -1,3 +1,6 @@
+[![Fast API Deployment](https://github.com/akshayghime/fast-api/actions/workflows/devops.yml/badge.svg)](https://github.com/akshayghime/fast-api/actions/workflows/devops.yml)
+
+
 # fast-api
 Continuous Delivery of FastAPI Data Engineering API on AWS Platform
 
