@@ -11,7 +11,7 @@ Continuous Delivery of FastAPI Data Engineering API on AWS Platform
     nano ~/.bashrc
     and paste the following line at the bottom
     source ~/.fast-api-venv/bin/activate
-2. Create all scaffold empty files
+2. Create all scaffold empty files:-
     touch requirements.txt
     touch Makefile
     touch Dockerfile
