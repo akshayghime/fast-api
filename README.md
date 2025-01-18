@@ -18,4 +18,7 @@ Continuous Delivery of FastAPI Data Engineering API on AWS Platform
     mkdir mylib,
     touch mylib/__init__.py,
     touch mylib/logic.py
-3. Populate Makefile
+3. Populate Makefile and requirements.txt
+---- Use make install command
+---- To check the versions installed on your venv, use pip freeze
+---- add those versions in requirements file and use make install command again
