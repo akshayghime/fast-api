@@ -12,9 +12,9 @@ Continuous Delivery of FastAPI Data Engineering API on AWS Platform
     and paste the following line at the bottom
     source ~/.fast-api-venv/bin/activate
 2. Create all scaffold empty files:-
-    touch requirements.txt
-    touch Makefile
-    touch Dockerfile
-    mkdir mylib
-    touch mylib/__init__.py
+    touch requirements.txt,
+    touch Makefile,
+    touch Dockerfile,
+    mkdir mylib,
+    touch mylib/__init__.py,
     touch mylib/logic.py
