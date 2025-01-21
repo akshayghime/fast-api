@@ -34,3 +34,5 @@ Continuous Delivery of FastAPI Data Engineering API on AWS Platform
    Sample code-
 
    ![image](https://github.com/user-attachments/assets/d8c45a6b-dead-4312-8074-ae50f412966a)
+
+7. Pro tip you can also convert the whole module into a cli by adding the file name into FIRE function.
