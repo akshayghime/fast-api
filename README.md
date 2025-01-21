@@ -30,6 +30,4 @@ Continuous Delivery of FastAPI Data Engineering API on AWS Platform
 
 5. Setup format, lint, test steps in both Makefile and .github/workflows devops.yml file
 
-6. Create command line tool to interact with project and test the logic using python fire or click, In this case I used fire. Dont forget to shebang line at the start of your cli tool python file which tells the interpreter to run as a script. Also you need to run chmod +x cli-fire.py (Name of your cli tool file) in the command line first. Then you can simply pass on the file name (./cli-fire.py --help, ./cli-fire.py --length 5,./cli-fire.py) to run it as a script. Check file cli-fire.py for reference code.
-
-7. 
+6. Create command line tool to interact with project and test the logic using python fire or click, In this case I used fire. Dont forget to shebang line at the start of your cli tool python file which tells the interpreter to run as a script. Also you need to run chmod +x cli-fire.py (Name of your cli tool file) in the command line first. Then you can simply pass on the file name (./cli-fire.py --help, ./cli-fire.py --length 5,./cli-fire.py) to run it as a script. Check file cli-fire.py for reference code. You can also play around with the file and check/test your functions by installing ipython. Try with wikipedia search.
