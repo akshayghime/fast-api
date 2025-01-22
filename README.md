@@ -37,3 +37,5 @@ Continuous Delivery of FastAPI Data Engineering API on AWS Platform
 
 7. Pro tip you can also convert the whole module into a cli by adding the file name into FIRE function.
    ![image](https://github.com/user-attachments/assets/1641d269-c2b9-4d15-bdd0-4cfb180561a0)
+
+8. We are going to create a function that takes in the input from wiki result and displays out phrases. For this we used textblob, do the required installation. Create test_main.py file and test output of phrase function which was created in logic.py file. Dont forget to update your main.py file and tweak a little bit so that fast api can listen to the call for this newly created function.
